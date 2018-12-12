@@ -1,0 +1,49 @@
+#green {
+    background: url("images/green.jpg");
+    width: 75%;
+    height: 528px;
+    padding: 10px;
+    margin-left: 12.5%;
+}
+
+
+.address{
+  font-size: 16px;
+}
+
+.active{
+  background-color: #2AB9B9;
+}
+
+.times{
+background-color: #dbffff;
+text-align: center;
+padding: 16px;
+margin: 8px;
+display: inline-block;
+width: 28%;
+vertical-align: middle;
+list-style: none;
+}
+
+
+
+.grow:hover{
+  width: 175px;
+  height:175px;
+}
+.major{
+  display: inline-block;
+  font-size: 12px;
+  padding: 2px 21px;
+  font-family: times;
+  margin-left: 10px;
+  text-align: center;
+}
+
+#keyy-features {
+  background: #ff1b68;
+  margin-top: 80px;
+  padding: 20px;
+  width: 100%;
+}
